@@ -17,7 +17,7 @@ Our program focuses on model stability as well as appearance, and generates LEGO
 The program is implemented in C++, using OSG standard library for visualization. In addition, the program outputs a LEGO model in LDraw format, which is compatible with numerous LEGO CAD programs, such as MLCad.
  
  
- ![penguin](https://cgm.technion.ac.il/Computer-Graphics-Multimedia/Undergraduate-Projects/2010/3DModel2Lego/ProjectWeb/index_files/image4991.jpg)
+ ![penguin](penguin.png)
 
  
  
